@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 5.1.1
+-- version 5.2.1
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: May 10, 2022 at 12:23 PM
--- Server version: 10.4.22-MariaDB
--- PHP Version: 8.1.0
+-- Generation Time: Feb 13, 2024 at 07:02 PM
+-- Server version: 10.4.28-MariaDB
+-- PHP Version: 8.2.4
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -18,10 +18,8 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `procyon2022`
+-- Database: `procyon2024`
 --
-CREATE DATABASE IF NOT EXISTS `procyon2022` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
-USE `procyon2022`;
 
 -- --------------------------------------------------------
 
@@ -29,35 +27,35 @@ USE `procyon2022`;
 -- Table structure for table `crregistration`
 --
 
-DROP TABLE IF EXISTS `crregistration`;
 CREATE TABLE `crregistration` (
   `id` int(11) NOT NULL,
   `username` varchar(50) NOT NULL,
-  `password` int(11) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+  `password` int(11) NOT NULL,
+  `category` varchar(20) NOT NULL DEFAULT 'class'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- Dumping data for table `crregistration`
 --
 
-INSERT INTO `crregistration` (`id`, `username`, `password`, 'category') VALUES
-(2, 'VARUN CASTELLO', 2113027), 
-(3, 'VADIRAJ INAMDAR', 2014059),
-(4, 'SHRINIVAS GURURAJ INAMDAR', 2314092),
-(5, 'SANCHA VICTORIA GOMES', 2316039),
-(6, 'SAHIL SUBHASH PATIL', 2121030),
-(7, 'SARVADNYA SANJEEV GAUNS DESSAI ', 2311022),
-(8, 'LYDON FERNANDES', 2112019),
-(9, 'ANANYA MAHESH SAWANT ', 2111008),
-(10, 'RAJAT KASHALKAR', 2111018),
-(11, 'AYYAN SHAIKH ', 2312006),
-(12, 'VANOSH FERNANDES', 2216055),
-(13, 'SAMUEL MIRANDA ', 2114043),
-(14, 'OM MAHANAND PARAB', 2214033), 
-(15, 'AADARSH CHODANKAR', 2012001), 
-(16, 'JEREMY GILBERT', 2013010),  
-(17, 'ABHISHEK DIAS', 2212011), 
-(18, 'LIAM MENDES', 2211011); 
+INSERT INTO `crregistration` (`id`, `username`, `password`, `category`) VALUES
+(2, 'VARUN CASTELLO', 2113027, 'class'),
+(3, 'VADIRAJ INAMDAR', 2014059, 'class'),
+(4, 'SHRINIVAS GURURAJ INAMDAR', 2314092, 'class'),
+(5, 'SANCHA VICTORIA GOMES', 2316039, 'class'),
+(6, 'SAHIL SUBHASH PATIL', 2121030, 'class'),
+(7, 'SARVADNYA SANJEEV GAUNS DESSAI ', 2311022, 'class'),
+(8, 'LYDON FERNANDES', 2112019, 'class'),
+(9, 'ANANYA MAHESH SAWANT ', 2111008, 'class'),
+(10, 'RAJAT KASHALKAR', 2111018, 'class'),
+(11, 'AYYAN SHAIKH ', 2312006, 'class'),
+(12, 'VANOSH FERNANDES', 2216055, 'class'),
+(13, 'SAMUEL MIRANDA ', 2114043, 'class'),
+(14, 'OM MAHANAND PARAB', 2214033, 'class'),
+(15, 'AADARSH CHODANKAR', 2012001, 'class'),
+(16, 'JEREMY GILBERT', 2013010, 'class'),
+(17, 'ABHISHEK DIAS', 2212011, 'class'),
+(18, 'LIAM MENDES', 2211011, 'class');
 
 -- --------------------------------------------------------
 
@@ -65,13 +63,12 @@ INSERT INTO `crregistration` (`id`, `username`, `password`, 'category') VALUES
 -- Table structure for table `deptregistrations`
 --
 
-DROP TABLE IF EXISTS `deptregistrations`;
 CREATE TABLE `deptregistrations` (
   `id` int(11) NOT NULL,
   `username` varchar(50) NOT NULL,
   `password` int(7) NOT NULL,
-  `category` varchar(20) NOT NULL DEFAULT 'class'
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+  `category` varchar(20) NOT NULL DEFAULT 'department'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- Dumping data for table `deptregistrations`
