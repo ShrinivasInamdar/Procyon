@@ -1182,7 +1182,7 @@
 										<tr>
 											<td>Date</td>
 											<td>:</td>
-											<td> 17th May 2023 </td>
+											<td> 4th March 2024 </td>
 										</tr>
 										<tr>
 											<td>Time</td>
@@ -1251,26 +1251,33 @@
 											<td><strong>Mobile No.</strong></td>
 										</tr>
 										<tr>
-											<td>Deevyam (SE MECH)</td>
-											<td>&nbsp;7030979033</td>
+											<td>Chinmay Joshi(BE COMP)</td>
+											<td>&nbsp;9527014907</td>
 										</tr>
 										<tr>
-											<td>Kshitij (SE MECH)</td>
-											<td>&nbsp;8459145895</td>
+											<td>Hitendra Naik(BE COMP)</td>
+											<td>&nbsp;TBA</td>
 										</tr>
-
+										<tr>
+											<td>Vivek Bobade(FE COMP-2)</td>
+											<td>&nbsp;9371410141</td>
+										</tr>		
 										<tr>
 											<td> <br>
 												<strong>Faculty Co-ordinator :</strong>
 											</td>
 										</tr>
 										<tr>
-											<td>Prof. Shruti Desai&nbsp; </td><br>
+											<td>Mr. Amit Sapkal&nbsp; </td><br>
 
 										</tr>
 
 										<tr>
 											<td>Prof. Sanjeel Naik &nbsp; </td>
+
+										</tr>
+										<tr>
+											<td>Prof. Anisha Cotta &nbsp; </td>
 
 										</tr>
 									</tbody>
@@ -1331,7 +1338,7 @@
 										<tr>
 											<td>Date</td>
 											<td>:</td>
-											<td>17th May 2023 </td>
+											<td>4th March 2024 </td>
 										</tr>
 										<tr>
 											<td>Time</td>
@@ -1411,13 +1418,18 @@
 											<td><strong>Mobile No.</strong></td>
 										</tr>
 										<tr>
-											<td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Terrance Braganca</a> (SE COMP)</td><br>
-											<td>8421048011</td><br>
+											<td>Chenoy Santos(SE MECH)</td><br>
+											<td>9730548624</td><br>
 
 										</tr>
 										<tr>
-											<td>Abhishek Pawar(BE Mech)</td><br>
-											<td>&nbsp;&nbsp;9673538047</td><br>
+											<td>Lauren Rodrigues(SE COMP)</td><br>
+											<td>&nbsp;&nbsp;TBA</td><br>
+
+										</tr>
+										<tr>
+											<td>Josiah Fernandes(SE MECH)</td><br>
+											<td>&nbsp;&nbsp;9175198380</td><br>
 
 										</tr>
 										<tr>
@@ -1430,6 +1442,9 @@
 										</tr>
 										<tr>
 											<td>Prof. Esta L. Pereira&nbsp; </td>
+										</tr>
+										<tr>
+											<td>Ms. Elaine Dias&nbsp; </td>
 										</tr>
 										</tr>
 									</tbody>
@@ -1489,7 +1504,7 @@
 										<tr>
 											<td>Date</td>
 											<td>:</td>
-											<td>17th May 2023 </td>
+											<td>4th March 2024 </td>
 										</tr>
 										<tr>
 											<td>Time</td>
@@ -1565,14 +1580,19 @@
 											<td><strong>Mobile No.</strong></td>
 										</tr>
 										<tr>
-											<td>Xavy (FE Civil)</td>
+											<td>Mohammed Sidique(FE COMP-1)</td>
 											<br>
-											<td>8830657915</td>
+											<td>9699843397</td>
 										</tr>
 										<tr>
-											<td>Idwal (TE Comp)</td>
+											<td>Umar Korbe(TE ECS)</td>
 											<br>
-											<td>&nbsp;7744921799</td>
+											<td>&nbsp;9156078497</td>
+										</tr>
+										<tr>
+											<td>Jay Rane(SE COMP)</td>
+											<br>
+											<td>&nbsp;TBA</td>
 										</tr>
 
 										<tr>
@@ -1581,7 +1601,11 @@
 											</td>
 										</tr>
 										<tr>
-											<td>Prof. Saurabh Raikar</td>
+											<td>Mr. Vincent Fernandes</td>
+
+										</tr>
+										<tr>
+											<td>Prof. Amey Kerkar</td>
 
 										</tr>
 										<tr>
@@ -1637,7 +1661,7 @@
 									<tr>
 										<td>Date</td>
 										<td>:</td>
-										<td> 26 may </td>
+										<td> 4th March 2024 </td>
 									</tr>
 									<tr>
 										<td>Time</td>
@@ -1779,7 +1803,7 @@
 										<tr>
 											<td>Date</td>
 											<td>:</td>
-											<td>17th May 2023</td>
+											<td>4th March 2024</td>
 										</tr>
 										<tr>
 											<td>Time</td>
@@ -1855,13 +1879,13 @@
 											<td><strong>Mobile No.</strong></td>
 										</tr>
 										<tr>
-											<td>Varun (BE Mech)</td><br>
-											<td>&nbsp;&nbsp;9527674307</td><br>
+											<td>Aaron Rodrigues(TE MECH)</td><br>
+											<td>&nbsp;&nbsp;TBA</td><br>
 
 										</tr>
 										<tr>
-											<td>Leah (FE COMP)</td><br>
-											<td>&nbsp;8830407764</td><br>
+											<td>Leonardo Vaz(BE CIVIL)</td><br>
+											<td>&nbsp;TBA</td><br>
 
 										</tr>
 
@@ -1879,6 +1903,10 @@
 											<td>Dr.
 												Shreyas Simu
 											</td>
+										</tr>
+										<tr>
+											<td>Ms. Mancia Lobo &nbsp;</td>
+
 										</tr>
 									</tbody>
 								</table>
@@ -1937,7 +1965,7 @@
 										<tr>
 											<td>Date</td>
 											<td>:</td>
-											<td> 17th May 2023 </td>
+											<td> 4th March 2024 </td>
 										</tr>
 										<tr>
 											<td>Time</td>
@@ -2015,13 +2043,13 @@
 											<td><strong>Mobile No.</strong></td>
 										</tr>
 										<tr>
-											<td>Lauren (FE COMP)</td>
-											<td>9689353800</td>
+											<td>Griselda Fernandes(SE COMP)</td>
+											<td>TBA</td>
 											<br>
 										</tr>
 										<tr>
-											<td>Ayush Mopkar(SE Comp)</td>
-											<td>7020487805</td>
+											<td>Sancha Gomes(FE ECS)</td>
+											<td>TBA</td>
 											<br>
 										</tr>
 										<tr>
@@ -2034,12 +2062,12 @@
 
 										</tr>
 										<tr>
-											<td>Prof. Anirudha </td>
+											<td>Prof. Anirudha</td>
 										</tr>
 										<tr>
-											<td>Arun Sail
-											</td>
+											<td>Mr. Arun Sail</td>
 										</tr>
+									
 									</tbody>
 								</table>
 								<p></p>
@@ -2095,7 +2123,7 @@
 										<tr>
 											<td>Date</td>
 											<td>:</td>
-											<td> 17th May 2023</td>
+											<td> 4th March 2024</td>
 										</tr>
 										<tr>
 											<td>Time</td>
@@ -2180,13 +2208,13 @@
 											<td><strong>Mobile No.</strong></td>
 										</tr>
 										<tr>
-											<td>Malcom (FE COMP)</td>
-											<td>7499084979</td>
+											<td>Anish Baretto(SE MECH)</td>
+											<td>TBA</td>
 											<br>
 										</tr>
 										<tr>
-											<td>Nathania (FE COMP)</td>
-											<td>&nbsp;8459128894</td>
+											<td>Yuvika Gauns Dessai(FE COMP-2)</td>
+											<td>&nbsp;TBA</td>
 											<br>
 										</tr>
 										<tr>
@@ -2195,7 +2223,7 @@
 											</td>
 										</tr>
 										<tr>
-											<td> Prof. Mathilda Colaco&nbsp; </td>
+											<td> Prof. Shivani Naik&nbsp; </td>
 
 										</tr>
 										<tr>
@@ -2257,7 +2285,7 @@
 										<tr>
 											<td>Date</td>
 											<td>:</td>
-											<td>17th May 2023</td>
+											<td>4th March 2024</td>
 										</tr>
 										<tr>
 											<td>Time</td>
@@ -2277,7 +2305,7 @@
 										<tr>
 											<td>Venue</td>
 											<td>:</td>
-											<td>Near Chapel</td>
+											<td>Fiire Corridor</td>
 										</tr>
 										<tr>
 											<td>Participants</td>
@@ -2327,13 +2355,13 @@
 											<td><strong>Mobile No.</strong></td>
 										</tr>
 										<tr>
-											<td>Ayisha (BE MECH)</td>
-											<td>&nbsp;8329093639</td>
+											<td>Vaishnavi Parodkar(FE COMP-2)</td>
+											<td>&nbsp;TBA</td>
 											<br>
 										</tr>
 										<tr>
-											<td>Sadiya (FE Civil)</td>
-											<td>&nbsp;9175411708</td>
+											<td>Dev Kalgutkar</td>
+											<td>&nbsp;TBA</td>
 											<br>
 										</tr>
 										<tr>
@@ -2346,7 +2374,7 @@
 
 										</tr>
 										<tr>
-											<td>Prof. Samprita Ghadi </td>
+											<td>Prof. Viraj Naik </td>
 										</tr>
 
 									</tbody>
@@ -2407,12 +2435,12 @@
 										<tr>
 											<td>Date</td>
 											<td>:</td>
-											<td> 17th May 2023 </td>
+											<td> 4th March 2024 </td>
 										</tr>
 										<tr>
 											<td>Time</td>
 											<td>:</td>
-											<td>2:00 - 2:30 (Submission)</td>
+											<td>2:00pm - 2:30pm (Submission)</td>
 										</tr>
 										<tr>
 											<td>Type</td>
@@ -2471,13 +2499,13 @@
 											<td><strong>Mobile No:</strong></td>
 										</tr>
 										<tr>
-											<td>Om (FE ECS)</td>
-											<td>&nbsp;7666235448</td>
+											<td>Sailee Mahale(SE CIVIL)</td>
+											<td>&nbsp;TBA</td>
 											<br>
 										</tr>
 										<tr>
-											<td>Sumukh (FE Comp )</td>
-											<td>&nbsp;8600151383</td>
+											<td>Danely Gomes(FE ECS)</td>
+											<td>&nbsp;TBA</td>
 											<br>
 										</tr>
 										<tr>
@@ -2547,7 +2575,7 @@
 										<tr>
 											<td>Date</td>
 											<td>:</td>
-											<td> 17th May 2023 </td>
+											<td> 4th March 2024 </td>
 										</tr>
 										<tr>
 											<td>Time</td>
@@ -2625,14 +2653,8 @@
 											<td><strong>Mobile No.</strong></td-->
 										</tr>
 										<tr>
-											<td> Sneha (FE Civil )</td>
-											<td>8329215668</td>
-											<br>
-
-										</tr>
-										<tr>
-											<td>Kinsel (FE ECS) </td>
-											<td>7709607842</td>
+											<td> Ananya Sawant(FE COMP-1)</td>
+											<td>TBA</td>
 											<br>
 
 										</tr>
@@ -2706,7 +2728,7 @@
 										<tr>
 											<td>Date</td>
 											<td>:</td>
-											<td>17th May 2023 </td>
+											<td>4th March 2024</td>
 										</tr>
 										<tr>
 											<td>Time</td>
@@ -2768,14 +2790,14 @@
 											<td><strong>Mobile No.</strong></td-->
 										</tr>
 										<tr>
-											<td>Lyzander (BE MECH)</td>
-											<td>9529449913</td>
+											<td>Anuj Gaude(SE COMP)</td>
+											<td>TBA</td>
 											<br>
 
 										</tr>
 										<tr>
-											<td>Manish (FE Civil)</td>
-											<td>&nbsp;8975641637</td>
+											<td>Aarth Vajandar(SE COMP)</td>
+											<td>&nbsp;TBA</td>
 											<br>
 
 										</tr>
@@ -2786,7 +2808,7 @@
 											</td>
 										</tr>
 										<tr>
-											<td>Prof. Ryan Pereirao&nbsp; </td>
+											<td>Prof. Clifford Britto&nbsp; </td>
 
 										</tr>
 
