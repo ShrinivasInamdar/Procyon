@@ -851,7 +851,7 @@
 							</div>
 
 							<div class="mu-register-content">
-								<div class="mu-register-form" method="POST">
+							<form class="mu-register-form" action="login.php"  method="POST">
 
 									<div class="row">
 										<div class="col-md-4">
@@ -873,11 +873,8 @@
 											</select>
 										</div>
 									</div>
-
-
-
-									<button type="submit" name="login" class="mu-reg-submit-btn" onclick="login()">LOG IN</button>
-								</div>
+									<button type="submit" name="login" class="mu-reg-submit-btn">LOG IN</button>
+							</form>
 
 
 							</div>
