@@ -60,13 +60,6 @@
 			});
 		});
 	</script>
-
-	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-	<!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
 </head>
 
 <body>
@@ -117,8 +110,6 @@
 						<div class="mu-logo-area">
 							<!-- text based logo -->
 							<a class="mu-logo" href="#">PROCYON 2K24</a>
-							<!-- image based logo -->
-							<!-- <a class="mu-logo" href="#"><img src="assets/images/logo.jpg" alt="logo img"></a> -->
 						</div>
 						<!-- End center Logo -->
 
@@ -157,7 +148,7 @@
 								<div class="col-md-6">
 									<div class="mu-about-left">
 										<img class=""
-											src="pics/poster.png" alt="Image" style="height: 100%;object-fit: cover;">
+											src="pics/poster.png" alt="Image" style="height: auto; object-fit: cover; width:auto;">
 									</div>
 								</div>
 								<div class="col-md-6 ">
