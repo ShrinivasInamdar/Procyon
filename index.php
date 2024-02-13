@@ -20,8 +20,7 @@
 
 	<!-- sponsorslider -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
-	<link rel="stylesheet"
-	href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.css">
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
 	<script src="custom.js"></script>
@@ -42,7 +41,7 @@
 		}
 	</style>
 	<script>
-		$(function () {
+		$(function() {
 			$("#dialog").dialog({
 				autoOpen: false,
 				show: {
@@ -55,7 +54,7 @@
 				}
 			});
 
-			$("#opener").on("click", function () {
+			$("#opener").on("click", function() {
 				$("#dialog").dialog("open");
 			});
 		});
@@ -71,8 +70,7 @@
 			<div class="container">
 				<!-- Brand and toggle get grouped for better mobile display -->
 				<div class="navbar-header">
-					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
-						data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
 						<span class="sr-only">Toggle navigation</span>
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
@@ -147,45 +145,41 @@
 							<div class="row">
 								<div class="col-md-6">
 									<div class="mu-about-left">
-										<img class=""
-											src="pics/poster.png" alt="Image" style="height: auto; object-fit: cover; width:auto;">
+										<img class="" src="pics/poster.png" alt="Image" style="height: auto; object-fit: cover; width:auto;">
 									</div>
 								</div>
 								<div class="col-md-6 ">
 
-									<div class="mu-about-right ">
+									<div class="mu-about-right">
 										<h2 style="font-size: 50px; text-align: center;">About The Event</h2>
-										<div style="font-size:18px; text-align: center;">
-											<p>Procyon is an inter-department cultural fiesta, wherein students of 17
-												different classes showcase their talents in various cultural activities
-												on a common platform.This year several activities like:</p>
+										<div>
+											<p style="text-align: center;">Procyon is an inter-department cultural fiesta, wherein students of 17 different classes showcase their talents in various cultural activities on a common platform. This year several activities like:</p>
 
-											<ol style="list-style-type:none;">
-												<li>Ghumat Aarti</li>
-												<li>The Voice</li>
-												<li>Skit</li>
-												<li>Battle of Bands</li>
-												<li>Hoist the Banner</li>
-												<li>Food Wizard</li>
-												<li>Art of Colors</li>
-												<li>Slow Mo</li>
-												<li>Mad-Lipz</li>
-												<li>Reel Life</li>
+											<ul style="list-style-type: none; text-align: center; padding-left: 0;">
+												<li style="list-style-type: none;">Ghumat Aarti</li>
+												<li style="list-style-type: none;">The Voice</li>
+												<li style="list-style-type: none;">Skit</li>
+												<li style="list-style-type: none;">Battle of Bands</li>
+												<li style="list-style-type: none;">Hoist the Banner</li>
+												<li style="list-style-type: none;">Food Wizard</li>
+												<li style="list-style-type: none;">Art of Colors</li>
+												<li style="list-style-type: none;">Slow Mo</li>
+												<li style="list-style-type: none;">Mad-Lipz</li>
+												<li style="list-style-type: none;">Reel Life</li>
+												<li style="list-style-type: none;">Step Up Revolution</li>
+												<li style="list-style-type: none;">Mr. and Ms. Procyon</li>
+												<li style="list-style-type: none;">Rock the Ramp</li>
+												<li style="list-style-type: none;">Street Play</li>
+												<li style="list-style-type: none;">Treasure Hunt</li>
+												<li style="list-style-type: none;">Face Painting</li>
+												<li style="list-style-type: none;">Junkyard Beats</li>
+												<li style="list-style-type: none;">Framed will be held in the college campus.</li>
+											</ul>
 
-												<li>Step Up Revolution</li>
-												<li>Mr. and Ms. Procyon</li>
-												<li>Rock the Ramp</li>
-
-												<li>Street Play</li>
-												<li>Treasure Hunt</li>
-												<li>Face Painting</li>
-												<li>Junkyard Beats</li>
-												<li>Framed will be held in the college campus.</li> <br>
-											</ol>
-
-											<p>This event is organised by the students for the students.</p>
+											<p style="text-align: center;">This event is organised by the students for the students.</p>
 										</div>
 									</div>
+
 								</div>
 							</div>
 							<!-- End Feature Content -->
@@ -217,8 +211,7 @@
 			<div class="mu-video-content">
 				<div class="mu-video-iframe-area">
 					<a class="mu-video-close-btn" href="#"><i class="fa fa-times" aria-hidden="true"></i></a>
-					<iframe width="854" height="480" src="https://www.youtube.com/embed/Sntk8dqgF_k" frameborder="0"
-						allowfullscreen></iframe>
+					<iframe width="854" height="480" src="https://www.youtube.com/embed/Sntk8dqgF_k" frameborder="0" allowfullscreen></iframe>
 				</div>
 			</div>
 			<!-- End Video content -->
@@ -242,11 +235,9 @@
 							<div class="mu-schedule-content-area">
 								<!-- Nav tabs -->
 								<ul class="nav nav-tabs mu-schedule-menu" role="tablist">
-									<li role="presentation" class="active"><a href="#first-day"
-											aria-controls="first-day" role="tab" data-toggle="tab">Day 1 / 4th March</a>
+									<li role="presentation" class="active"><a href="#first-day" aria-controls="first-day" role="tab" data-toggle="tab">Day 1 / 4th March</a>
 									</li>
-									<li role="presentation"><a href="#second-day" aria-controls="second-day" role="tab"
-											data-toggle="tab">Day 2 / 5th March</a></li>
+									<li role="presentation"><a href="#second-day" aria-controls="second-day" role="tab" data-toggle="tab">Day 2 / 5th March</a></li>
 									<!--li role="presentation"><a href="#third-day" aria-controls="third-day" role="tab" data-toggle="tab">3 Day / 21 Feb</a></li-->
 
 								</ul>
@@ -254,8 +245,7 @@
 								<!-- Tab panes -->
 								<div class="tab-content mu-schedule-content">
 
-									<div role="tabpanel" class="tab-pane fade mu-event-timeline in active"
-										id="first-day">
+									<div role="tabpanel" class="tab-pane fade mu-event-timeline in active" id="first-day">
 										<ul>
 
 											<!--DAY 1 ON STAGE-->
@@ -267,8 +257,7 @@
 												</div>
 											</li>
 											<li>
-												<div class="btn mu-single-event" data-toggle="modal"
-													data-target="#modal1">
+												<div class="btn mu-single-event" data-toggle="modal" data-target="#modal1">
 													<img src="pics/ghumat.jpg" alt="event speaker">
 													<p class="mu-event-time">10:30 - 11:30 AM</p>
 													<p class="mu-event-time">MAIN STAGE</p>
@@ -277,8 +266,7 @@
 												</div>
 											</li>
 											<li>
-												<div class="btn mu-single-event" data-toggle="modal"
-													data-target="#modal2">
+												<div class="btn mu-single-event" data-toggle="modal" data-target="#modal2">
 													<img src="pics/TheVoice.png" alt="event speaker">
 													<p class="mu-event-time">11:30 AM - 1:30 PM</p>
 													<p class="mu-event-time">MAIN STAGE</p>
@@ -288,8 +276,7 @@
 												</div>
 											</li>
 											<li>
-												<div class=" btn mu-single-event" data-toggle="modal"
-													data-target="#modal3">
+												<div class=" btn mu-single-event" data-toggle="modal" data-target="#modal3">
 													<img src="pics/Skit.jpg" alt="event speaker">
 													<p class="mu-event-time">2:00 - 3:00 PM </p>
 													<p class="mu-event-time">MAIN STAGE</p>
@@ -301,8 +288,7 @@
 
 
 											<li>
-												<div class="btn mu-single-event" data-toggle="modal"
-													data-target="#modal5">
+												<div class="btn mu-single-event" data-toggle="modal" data-target="#modal5">
 													<img src="pics/battleofband.jpg" alt="event speaker">
 													<p class="mu-event-time">3:30 - 5:30 PM </p>
 													<p class="mu-event-time">MAIN STAGE</p>
@@ -314,8 +300,7 @@
 											<!--DAY 1 OFF STAGE-->
 
 											<li>
-												<div class="btn mu-single-event" data-toggle="modal"
-													data-target="#modal7">
+												<div class="btn mu-single-event" data-toggle="modal" data-target="#modal7">
 													<img src="pics/masterchef1.png" alt="event speaker">
 													<p class="mu-event-time">10:30 AM - 1:30 PM </p>
 													<p class="mu-event-time">V2</p>
@@ -325,8 +310,7 @@
 												</div>
 											</li>
 											<li>
-												<div class="btn mu-single-event" data-toggle="modal"
-													data-target="#modal6">
+												<div class="btn mu-single-event" data-toggle="modal" data-target="#modal6">
 													<img src="pics/brush%20strokes.jpeg" alt="event speaker">
 													<p class="mu-event-time">10:30 AM - 1:30 PM </p>
 													<p class="mu-event-time">V1</p>
@@ -335,8 +319,7 @@
 												</div>
 											</li>
 											<li>
-												<div class="btn mu-single-event" data-toggle="modal"
-													data-target="#modal8">
+												<div class="btn mu-single-event" data-toggle="modal" data-target="#modal8">
 													<img src="pics/rangoli.jpg" alt="event speaker">
 													<p class="mu-event-time">10:30 AM - 1:30 PM </p>
 													<p class="mu-event-time">Near the Chapel</p>
@@ -345,8 +328,7 @@
 												</div>
 											</li>
 											<li>
-												<div class="btn mu-single-event" data-toggle="modal"
-													data-target="#modal9">
+												<div class="btn mu-single-event" data-toggle="modal" data-target="#modal9">
 													<img src="pics/madlip.jpg" alt="event speaker">
 													<p class="mu-event-time">2:00 PM - 2:30 PM </p>
 													<p class="mu-event-time">Submission</p>
@@ -356,8 +338,7 @@
 											</li>
 
 											<li>
-												<div class="btn mu-single-event" data-toggle="modal"
-													data-target="#modal10">
+												<div class="btn mu-single-event" data-toggle="modal" data-target="#modal10">
 													<img src="pics/movie making.png" alt="event speaker">
 													<p class="mu-event-time">2:30 PM - 3:00 PM </p>
 													<p class="mu-event-time">Submission</p>
@@ -367,8 +348,7 @@
 												</div>
 											</li>
 											<li>
-												<div class="btn mu-single-event" data-toggle="modal"
-													data-target="#modal11">
+												<div class="btn mu-single-event" data-toggle="modal" data-target="#modal11">
 													<img src="pics/slow mo.jpg" alt="event speaker">
 													<p class="mu-event-time">3:00 - 3:30 PM </p>
 													<p class="mu-event-time">Outside Civil</p>
@@ -385,8 +365,7 @@
 									<div role="tabpanel" class="tab-pane fade mu-event-timeline" id="second-day">
 										<ul>
 											<li>
-												<div class="btn mu-single-event" data-toggle="modal"
-													data-target="#modal18">
+												<div class="btn mu-single-event" data-toggle="modal" data-target="#modal18">
 													<img src="pics/junkyard.jpg" alt="event speaker">
 													<p class="mu-event-time">9:30 - 10:30 PM</p>
 													<p class="mu-event-time">MAIN STAGE</p>
@@ -397,8 +376,7 @@
 
 
 											<li>
-												<div class="btn mu-single-event" data-toggle="modal"
-													data-target="#modal14">
+												<div class="btn mu-single-event" data-toggle="modal" data-target="#modal14">
 													<img src="pics/group dance.jpg" alt="event speaker">
 													<p class="mu-event-time">11:00 AM - 12:30 PM </p>
 													<p class="mu-event-time">MAIN STAGE</p>
@@ -407,8 +385,7 @@
 												</div>
 											</li>
 											<li>
-												<div class="btn mu-single-event" data-toggle="modal"
-													data-target="#modal15">
+												<div class="btn mu-single-event" data-toggle="modal" data-target="#modal15">
 													<img src="pics/couple.jpeg" alt="event speaker">
 													<p class="mu-event-time">2:30 - 4:00 PM </p>
 													<p class="mu-event-time">MAIN STAGE</p>
@@ -419,8 +396,7 @@
 
 
 											<li>
-												<div class="btn mu-single-event" data-toggle="modal"
-													data-target="#modal16">
+												<div class="btn mu-single-event" data-toggle="modal" data-target="#modal16">
 													<img src="pics/FashionShow.jpg" alt="event speaker">
 													<p class="mu-event-time">4:00 - 5:30 PM </p>
 													<p class="mu-event-time">MAIN STAGE</p>
@@ -433,8 +409,7 @@
 											<!--DAY 2 OFF STAGE-->
 
 											<li>
-												<div class="btn mu-single-event" data-toggle="modal"
-													data-target="#modal17">
+												<div class="btn mu-single-event" data-toggle="modal" data-target="#modal17">
 													<img src="pics/street play.jpg" alt="event speaker">
 													<p class="mu-event-time">1:30 - 2:30 PM </p>
 													<p class="mu-event-time">Near Chapel</p>
@@ -444,8 +419,7 @@
 												</div>
 											</li>
 											<li>
-												<div class="btn mu-single-event" data-toggle="modal"
-													data-target="#modal30">
+												<div class="btn mu-single-event" data-toggle="modal" data-target="#modal30">
 													<img src="pics/treasure.jpg" alt="event speaker">
 													<p class="mu-event-time">9:30 - 11:00 PM </p>
 													<h3>TREASURE HUNT</h3>
@@ -453,8 +427,7 @@
 												</div>
 											</li>
 											<li>
-												<div class="btn mu-single-event" data-toggle="modal"
-													data-target="#modal19">
+												<div class="btn mu-single-event" data-toggle="modal" data-target="#modal19">
 													<img src="pics/face.jpg" alt="event speaker">
 													<p class="mu-event-time">11:00 - 1:00 PM </p>
 													<p class="mu-event-time">Near Chapel</p>
@@ -474,8 +447,7 @@
 											</li> -->
 
 											<li>
-												<div class="btn mu-single-event" data-toggle="modal"
-													data-target="#modal20">
+												<div class="btn mu-single-event" data-toggle="modal" data-target="#modal20">
 													<img src="pics/photography.jpg" alt="event speaker">
 													<p class="mu-event-time">1:00 PM - 1:30 PM </p>
 													<p class="mu-event-time">Submission</p>
@@ -519,15 +491,13 @@
 						<div class="col-md-4"></div>
 						<center>
 							<div class="col-md-4"><!-- Button trigger modal -->
-								<button type="button" class="btn btn-lg btn-block modal-content" data-toggle="modal"
-									data-target="#modal24">
+								<button type="button" class="btn btn-lg btn-block modal-content" data-toggle="modal" data-target="#modal24">
 									General Rules
 								</button>
 						</center>
 
 						<!-- Modal -->
-						<div class="modal fade" id="modal24" tabindex="-1" role="dialog"
-							aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+						<div class="modal fade" id="modal24" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
 							<div class="modal-dialog" role="document">
 								<div class="modal-content">
 									<div class="modal-header">
@@ -538,8 +508,7 @@
 									</div>
 									<div class="modal-body">
 										<h3 class="rules-points"><b>POINTS SYSTEM</b></h3>
-										<table class="table table-bordered table-centered table-responsive mx-auto"
-											border="2">
+										<table class="table table-bordered table-centered table-responsive mx-auto" border="2">
 											<tr>
 												<td><b>POSITION</b></td>
 												<td><b>GOLD</b></td>
@@ -567,8 +536,7 @@
 
 										</table>
 										<br>
-										<table class="table table-bordered table-centered table-responsive mx-auto"
-											border="2">
+										<table class="table table-bordered table-centered table-responsive mx-auto" border="2">
 											<tr>
 												<td><b>POSITION</b></td>
 												<td><b>BRONZE</b></td>
@@ -596,8 +564,7 @@
 										</table>
 
 										<br>
-										<table class="table table-bordered table-centered table-responsive mx-auto"
-											border="2">
+										<table class="table table-bordered table-centered table-responsive mx-auto" border="2">
 											<tr>
 												<td><b>POSITION</b></td>
 												<td><b>PLATINUM</b></td>
@@ -705,7 +672,7 @@
 												Faculty members cannot participate in class events
 											</li>
 											<li>
-												<b>Allocation of joker cards is compulsory only for 
+												<b>Allocation of joker cards is compulsory only for
 													department events.</b>
 											</li>
 											<li>
@@ -761,8 +728,7 @@
 										</ol>
 									</div>
 									<div class="modal-footer">
-										<button type="button" class="btn btn-secondary clsbtn"
-											data-dismiss="modal">Close</button>
+										<button type="button" class="btn btn-secondary clsbtn" data-dismiss="modal">Close</button>
 									</div>
 								</div>
 							</div>
@@ -852,10 +818,7 @@
 
 					<div class="col-md-6">
 						<div class="mu-venue-map">
-							<iframe
-								src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15394.22519423461!2d73.9690846!3d15.291974!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbfb1631736de9d%3A0x980720b4516a7a5!2sDon%20Bosco%20College%20Of%20Engineering!5e0!3m2!1sen!2sin!4v1683527701515!5m2!1sen!2sin"
-								width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-								referrerpolicy="no-referrer-when-downgrade"></iframe>
+							<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15394.22519423461!2d73.9690846!3d15.291974!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbfb1631736de9d%3A0x980720b4516a7a5!2sDon%20Bosco%20College%20Of%20Engineering!5e0!3m2!1sen!2sin!4v1683527701515!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 							<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15394.22519423461!2d73.9690846!3d15.291974!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbfb1631736de9d%3A0x980720b4516a7a5!2sDon%20Bosco%20College%20Of%20Engineering!5e0!3m2!1sen!2sin!4v1683527701515!5m2!1sen!2sin" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> -->
 						</div>
 					</div>
@@ -888,23 +851,21 @@
 							</div>
 
 							<div class="mu-register-content">
-								<div class="mu-register-form"  method="POST">
+								<div class="mu-register-form" method="POST">
 
 									<div class="row">
 										<div class="col-md-4">
 											<div class="form-group">
-												<input type="text" class="form-control" placeholder="User Name"
-													id="name" name="username" required="">
+												<input type="text" class="form-control" placeholder="User Name" id="name" name="username" required="">
 											</div>
 										</div>
 
 										<div class="col-md-4">
 											<div class="form-group">
-												<input type="password" class="form-control" placeholder="Password"
-													id="pass" name="password" required="">
+												<input type="password" class="form-control" placeholder="Password" id="pass" name="password" required="">
 											</div>
 										</div>
-										<div class="col-md-4" >
+										<div class="col-md-4">
 											<select class="form-control" name="event-category" id="SelectionFromReg">
 												<option value="" selected="selected">Choose Event Category</option>
 												<option value="class-event">Class</option>
@@ -916,10 +877,10 @@
 
 
 									<button type="submit" name="login" class="mu-reg-submit-btn" onclick="login()">LOG IN</button>
+								</div>
+
+
 							</div>
-
-
-						</div>
 						</div>
 
 					</div>
@@ -1001,23 +962,23 @@
 			</div>
 		</section>
 		<!-- End Sponsors -->
-<!-- Start Event Order-->
+		<!-- Start Event Order-->
 
-<section id="mu-order">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<div class="mu-ordered-area">
-					<div class="mu-title-area">
-						<h3 class="mu-title"><a href="https://docs.google.com/spreadsheets/d/1QFCr2FWSfXsvs8rjmmcILwPDkGbPX9NRetPORtCZccc/edit?usp=drivesdk">Event Order</a></h3>
+		<section id="mu-order">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="mu-ordered-area">
+							<div class="mu-title-area">
+								<h3 class="mu-title"><a href="https://docs.google.com/spreadsheets/d/1QFCr2FWSfXsvs8rjmmcILwPDkGbPX9NRetPORtCZccc/edit?usp=drivesdk">Event Order</a></h3>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
-		</div>
-	</div>
-	</section>
+		</section>
 
-<!-- End Event Order -->
+		<!-- End Event Order -->
 
 		<!-- Start Contact -->
 		<section id="mu-contact">
@@ -1195,10 +1156,10 @@
 					</button>
 				</div>
 				<script>
-					$(function () {
+					$(function() {
 						$('[data-toggle="popover"]').popover()
 					})
-					$(function () {
+					$(function() {
 						$('[data-toggle="tooltip"]').tooltip()
 					})
 				</script>
@@ -1344,10 +1305,10 @@
 					</button>
 				</div>
 				<script>
-					$(function () {
+					$(function() {
 						$('[data-toggle="popover"]').popover()
 					})
-					$(function () {
+					$(function() {
 						$('[data-toggle="tooltip"]').tooltip()
 					})
 				</script>
@@ -1450,7 +1411,7 @@
 											<td><strong>Mobile No.</strong></td>
 										</tr>
 										<tr>
-											<td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" >Terrance Braganca</a> (SE COMP)</td><br>
+											<td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Terrance Braganca</a> (SE COMP)</td><br>
 											<td>8421048011</td><br>
 
 										</tr>
@@ -1502,10 +1463,10 @@
 					</button>
 				</div>
 				<script>
-					$(function () {
+					$(function() {
 						$('[data-toggle="popover"]').popover()
 					})
-					$(function () {
+					$(function() {
 						$('[data-toggle="tooltip"]').tooltip()
 					})
 				</script>
@@ -1613,7 +1574,7 @@
 											<br>
 											<td>&nbsp;7744921799</td>
 										</tr>
-							
+
 										<tr>
 											<td> <br>
 												<strong>Faculty Co-ordinator :</strong>
@@ -1792,10 +1753,10 @@
 					</button>
 				</div>
 				<script>
-					$(function () {
+					$(function() {
 						$('[data-toggle="popover"]').popover()
 					})
-					$(function () {
+					$(function() {
 						$('[data-toggle="tooltip"]').tooltip()
 					})
 				</script>
@@ -1915,9 +1876,9 @@
 
 										</tr>
 										<tr>
-											<td>Dr. 
+											<td>Dr.
 												Shreyas Simu
-												</td>
+											</td>
 										</tr>
 									</tbody>
 								</table>
@@ -1950,10 +1911,10 @@
 					</button>
 				</div>
 				<script>
-					$(function () {
+					$(function() {
 						$('[data-toggle="popover"]').popover()
 					})
-					$(function () {
+					$(function() {
 						$('[data-toggle="tooltip"]').tooltip()
 					})
 				</script>
@@ -2015,7 +1976,7 @@
 											<td>One Team Per Class</td>
 										</tr>
 										<tr>
-										
+
 										<tr>
 											<td>Duration</td>
 											<td>:</td>
@@ -2108,10 +2069,10 @@
 					</button>
 				</div>
 				<script>
-					$(function () {
+					$(function() {
 						$('[data-toggle="popover"]').popover()
 					})
-					$(function () {
+					$(function() {
 						$('[data-toggle="tooltip"]').tooltip()
 					})
 				</script>
@@ -2269,10 +2230,10 @@
 					</button>
 				</div>
 				<script>
-					$(function () {
+					$(function() {
 						$('[data-toggle="popover"]').popover()
 					})
-					$(function () {
+					$(function() {
 						$('[data-toggle="tooltip"]').tooltip()
 					})
 				</script>
@@ -2419,10 +2380,10 @@
 					</button>
 				</div>
 				<script>
-					$(function () {
+					$(function() {
 						$('[data-toggle="popover"]').popover()
 					})
-					$(function () {
+					$(function() {
 						$('[data-toggle="tooltip"]').tooltip()
 					})
 				</script>
@@ -2560,10 +2521,10 @@
 					</button>
 				</div>
 				<script>
-					$(function () {
+					$(function() {
 						$('[data-toggle="popover"]').popover()
 					})
-					$(function () {
+					$(function() {
 						$('[data-toggle="tooltip"]').tooltip()
 					})
 				</script>
@@ -2596,7 +2557,7 @@
 										<tr>
 											<td>Theme</td>
 											<td>:</td>
-											<td >Think global act local be creative</td>
+											<td>Think global act local be creative</td>
 										</tr>
 										<tr>
 											<td>Type</td>
@@ -2640,7 +2601,7 @@
 
 								<ol>
 
-									<li> Suicidal topics are strictly  banned. </li>
+									<li> Suicidal topics are strictly banned. </li>
 									<li> Caution should be taken to refrain from displaying obscenity, vulgarity,
 										violence, prejudice, defamation etc in the movie, as it will lead to
 										disqualification if done improperly.</li>
@@ -2719,10 +2680,10 @@
 					</button>
 				</div>
 				<script>
-					$(function () {
+					$(function() {
 						$('[data-toggle="popover"]').popover()
 					})
-					$(function () {
+					$(function() {
 						$('[data-toggle="tooltip"]').tooltip()
 					})
 				</script>
@@ -2828,7 +2789,7 @@
 											<td>Prof. Ryan Pereirao&nbsp; </td>
 
 										</tr>
-							
+
 									</tbody>
 								</table>
 								<p></p>
@@ -2871,10 +2832,10 @@
 					</button>
 				</div>
 				<script>
-					$(function () {
+					$(function() {
 						$('[data-toggle="popover"]').popover()
 					})
-					$(function () {
+					$(function() {
 						$('[data-toggle="tooltip"]').tooltip()
 					})
 				</script>
@@ -3026,10 +2987,10 @@
 					</button>
 				</div>
 				<script>
-					$(function () {
+					$(function() {
 						$('[data-toggle="popover"]').popover()
 					})
-					$(function () {
+					$(function() {
 						$('[data-toggle="tooltip"]').tooltip()
 					})
 				</script>
@@ -3195,10 +3156,10 @@
 					</button>
 				</div>
 				<script>
-					$(function () {
+					$(function() {
 						$('[data-toggle="popover"]').popover()
 					})
-					$(function () {
+					$(function() {
 						$('[data-toggle="tooltip"]').tooltip()
 					})
 				</script>
@@ -3315,7 +3276,7 @@
 											<br>
 
 										</tr>
-										
+
 
 										<tr>
 											<td> <br>
@@ -3362,10 +3323,10 @@
 					</button>
 				</div>
 				<script>
-					$(function () {
+					$(function() {
 						$('[data-toggle="popover"]').popover()
 					})
-					$(function () {
+					$(function() {
 						$('[data-toggle="tooltip"]').tooltip()
 					})
 				</script>
@@ -3447,7 +3408,7 @@
 									<li> Maximum two faculty participation earns 25 bonus points for that respective
 										event </li>
 									<li> Suicidal topics are strictly banned from portraying in the event</li>
-									
+
 									<li> Vulgarity of any kind should not be portrayed in any manner as it will lead to
 										disqualification of the entire team</li>
 									<li> Use of props is allowed, however no extra time will be given for stage setup
@@ -3520,10 +3481,10 @@
 					</button>
 				</div>
 				<script>
-					$(function () {
+					$(function() {
 						$('[data-toggle="popover"]').popover()
 					})
-					$(function () {
+					$(function() {
 						$('[data-toggle="tooltip"]').tooltip()
 					})
 				</script>
@@ -3674,10 +3635,10 @@
 					</button>
 				</div>
 				<script>
-					$(function () {
+					$(function() {
 						$('[data-toggle="popover"]').popover()
 					})
-					$(function () {
+					$(function() {
 						$('[data-toggle="tooltip"]').tooltip()
 					})
 				</script>
@@ -3831,10 +3792,10 @@
 					</button>
 				</div>
 				<script>
-					$(function () {
+					$(function() {
 						$('[data-toggle="popover"]').popover()
 					})
-					$(function () {
+					$(function() {
 						$('[data-toggle="tooltip"]').tooltip()
 					})
 				</script>
@@ -3864,8 +3825,8 @@
 												<br>
 												:day 2: 1pm
 											</td>
-										
-										
+
+
 										</tr>
 										<tr>
 											<td>Type</td>
@@ -3913,15 +3874,24 @@
 								<ol>
 									<li>Participants have to submit 2 photos.</li>
 									<li>Event is of 2 days which will have 2 separate themes.
-</li><li>Photos must be in jpeg,jpg or png format only.
-</li><li>Photos should be taken between the given time period. 
-</li><li>Use of Mobiles and DSLR cameras is allowed. 
-</li><li>Use of Drone and Action camera is strictly prohibited. 
-</li><li>Basic editing (only cropping) is allowed. 
-</li><li>Advanced editing, used to create illusions, deceptions and/or manipulations, and the adding and removing of significant elements within the frame is prohibited. Doing so will lead to disqualification. 
-</li><li>Participants are required to provide unique caption for the images submitted Submit your image files renamed as "day_1" and "day_2" 
-</li><li>The photograph must be original and no watermark of any kind should be present on the photograph.
-</li><li>Late submission will be disqualified.</li>
+									</li>
+									<li>Photos must be in jpeg,jpg or png format only.
+									</li>
+									<li>Photos should be taken between the given time period.
+									</li>
+									<li>Use of Mobiles and DSLR cameras is allowed.
+									</li>
+									<li>Use of Drone and Action camera is strictly prohibited.
+									</li>
+									<li>Basic editing (only cropping) is allowed.
+									</li>
+									<li>Advanced editing, used to create illusions, deceptions and/or manipulations, and the adding and removing of significant elements within the frame is prohibited. Doing so will lead to disqualification.
+									</li>
+									<li>Participants are required to provide unique caption for the images submitted Submit your image files renamed as "day_1" and "day_2"
+									</li>
+									<li>The photograph must be original and no watermark of any kind should be present on the photograph.
+									</li>
+									<li>Late submission will be disqualified.</li>
 
 								</ol>
 
@@ -3982,10 +3952,10 @@
 					</button>
 				</div>
 				<script>
-					$(function () {
+					$(function() {
 						$('[data-toggle="popover"]').popover()
 					})
-					$(function () {
+					$(function() {
 						$('[data-toggle="tooltip"]').tooltip()
 					})
 				</script>
@@ -4050,7 +4020,7 @@
 											<td>:</td>
 											<td>There will be 2 rounds.
 												Round 1 - Aptitude test/General knowledge
-												Top 4 highest scoring teams will qualify for Treasure Hunt 
+												Top 4 highest scoring teams will qualify for Treasure Hunt
 												Round 2 - Treasure Hunt
 												The team which finds the treasure first wins. There are 2
 												treasures. The treasure you find will determine the place you win.

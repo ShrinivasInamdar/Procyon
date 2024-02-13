@@ -413,7 +413,7 @@ src:url(assets/fonts/Full-TiltBoogieNF.ttf);
 
 .mu-about-right {
 	display: inline;
-	float: left;
+	/* float: left; */
 	margin-top: 30px;
 	width: 100%;
 }
