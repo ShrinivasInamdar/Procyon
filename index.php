@@ -205,7 +205,7 @@ if(!isset($_SESSION)){
 						<div class="col-md-12">
 							<div class="mu-video-area">
 								<h2>Follow Us on Instagram!!</h2>
-								<br><a href="https://www.instagram.com/dbceprocyon2k22/">
+								<br><a href="https://www.instagram.com/dbceprocyon2k23/">
 									<img border="0" alt="Instagram" src="pics/instagram.png" width="200" height="200">
 							</div>
 						</div>
