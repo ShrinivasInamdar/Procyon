@@ -1009,7 +1009,7 @@ if(!isset($_SESSION)){
 									<center>
 										<div class="mu-title-area">
 											<h2 class="mu-heading-title"> Student's Council</h2>
-											<img style="margin-bottom: 30px;" src="students_council.jpeg" />
+											<img style="margin-bottom: 30px;" src="pics/students_council.jpg" />
 										</div>
 										<br>
 										<div class="col-md-6">
