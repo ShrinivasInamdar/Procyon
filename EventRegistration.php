@@ -39,7 +39,7 @@
           
         }
         .registration-container {
-            max-width: 600px;
+            max-width: auto;
             margin: 0 auto;
             padding: 20px;
             background-color: #f9f9f9;
@@ -81,12 +81,11 @@
         }
         if($_SESSION['event']=='class'){
             // Link to Class Event Registration form
-            echo '<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeelo1F-etCVXBZy9hl9plWKnqoI832XS-610CpKaLMkihkcg/viewform?embedded=true" width="100%" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-                ';
+            echo '<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSceOQ_y6qgCY34x9HPGVrJUtsAx3gurrIADOB22AAGznuWSHA/viewform?embedded=true" width="100%" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>';
         }
         else if($_SESSION['event']=='department'){
             // Link to Department Event Registration form
-            echo"<script src='https://sheetdb.io/s/f/6albcxcxes5rz.js'></script>";
+            echo '<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScZSh9TXKozur5A2wj3ec6IrUNI-QvBaBPWqop_uhdDCCW4NQ/viewform?embedded=true" width="100%" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>';
         }
     ?>
     <br>

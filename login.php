@@ -1,6 +1,6 @@
 <?php
 
-$con = mysqli_connect('localhost', 'root', 'root', 'procyon2024') or die("Could not connect to mysql".mysqli_error($con));
+$con = mysqli_connect('localhost', 'root', '', 'procyon2024') or die("Could not connect to mysql".mysqli_error($con));
 
 if(isset($_POST['login'])){
     $user_name=$_POST['username'];
@@ -40,7 +40,22 @@ if(isset($_POST['login'])){
             }
            $_SESSION['username']=$user_name;
            $_SESSION['event']='department';
-            header("Location:./EventRegistration.php");
+            // header("Location:./EventRegistration.php");
+        if(!isset($_SESSION)){
+            session_start();
+        }
+        if($_SESSION['event']=='class'){
+            // Link to Class Event Registration form
+            // echo '<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSceOQ_y6qgCY34x9HPGVrJUtsAx3gurrIADOB22AAGznuWSHA/viewform?embedded=true" width="100%" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>';
+        }
+        else if($_SESSION['event']=='department'){
+            // Link to Department Event Registration form
+            // Destination URL
+            $destination_url = "https://forms.gle/8QwrTckTZeaR5ez29";
+
+            // Perform redirection
+            header("Location: $destination_url");
+        }
          //echo "Kindly Note: Registrations are closed for all the events now!";
         }
         else{
