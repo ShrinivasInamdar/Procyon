@@ -1,3 +1,9 @@
+<?php
+if(!isset($_SESSION)){
+	session_start();
+}
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -851,7 +857,15 @@
 							</div>
 
 							<div class="mu-register-content">
-							<form class="mu-register-form" action="login.php"  method="POST">
+							<?php 
+								if(!isset($_SESSION)){
+									session_start();
+								}
+								if(isset($_SESSION['username'])){
+									echo "<button name='login' class='mu-reg-submit-btn'><a style='color:white;' href='EventRegistration.php'>Register</a></button>";
+								}
+								else{
+									echo '<form class="mu-register-form" action="login.php"  method="POST">
 
 									<div class="row">
 										<div class="col-md-4">
@@ -874,9 +888,9 @@
 										</div>
 									</div>
 									<button type="submit" name="login" class="mu-reg-submit-btn">LOG IN</button>
-							</form>
-
-
+							</form>';
+								}
+							?>
 							</div>
 						</div>
 

@@ -93,6 +93,9 @@
     <button>
         <a style="color:white" href="./EventRegistration.php?logout">Logout</a>
     </button>
+    <button style="margin-left:10px">
+        <a style="color:white" href="./index.php">Go Back</a>
+    </button>
     </div>
 </body>
 </html>
