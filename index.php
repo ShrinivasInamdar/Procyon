@@ -3923,7 +3923,6 @@ if(!isset($_SESSION)){
 											<td>Creativity, Lighting, Visual Appeal, Presentation of topic, overall
 												effect</td>
 										</tr>
-
 										<tr>
 											<td>
 												<br>
