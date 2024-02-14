@@ -1,6 +1,6 @@
 <?php
 
-$con = mysqli_connect('localhost', 'root', '', 'procyon2024') or die("Could not connect to mysql".mysqli_error($con));
+$con = mysqli_connect('localhost', 'root', 'root', 'procyon2024') or die("Could not connect to mysql".mysqli_error($con));
 
 if(isset($_POST['login'])){
     $user_name=$_POST['username'];

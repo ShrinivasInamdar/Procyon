@@ -1267,7 +1267,7 @@ if(!isset($_SESSION)){
 										</tr>
 										<tr>
 											<td>Hitendra Naik(BE COMP)</td>
-											<td>&nbsp;TBA</td>
+											<td>&nbsp;9373405068</td>
 										</tr>
 										<tr>
 											<td>Vivek Bobade(FE COMP-2)</td>
@@ -1435,7 +1435,7 @@ if(!isset($_SESSION)){
 										</tr>
 										<tr>
 											<td>Lauren Rodrigues(SE COMP)</td><br>
-											<td>&nbsp;&nbsp;TBA</td><br>
+											<td>&nbsp;&nbsp;9156981587</td><br>
 
 										</tr>
 										<tr>
@@ -1603,7 +1603,7 @@ if(!isset($_SESSION)){
 										<tr>
 											<td>Jay Rane(SE COMP)</td>
 											<br>
-											<td>&nbsp;TBA</td>
+											<td>&nbsp;8208516322</td>
 										</tr>
 
 										<tr>
@@ -1891,12 +1891,12 @@ if(!isset($_SESSION)){
 										</tr>
 										<tr>
 											<td>Aaron Rodrigues(TE MECH)</td><br>
-											<td>&nbsp;&nbsp;TBA</td><br>
+											<td>&nbsp;&nbsp;9405864618</td><br>
 
 										</tr>
 										<tr>
 											<td>Leonardo Vaz(BE CIVIL)</td><br>
-											<td>&nbsp;TBA</td><br>
+											<td>&nbsp;9168587558</td><br>
 
 										</tr>
 
@@ -2055,12 +2055,12 @@ if(!isset($_SESSION)){
 										</tr>
 										<tr>
 											<td>Griselda Fernandes(SE COMP)</td>
-											<td>TBA</td>
+											<td>7887868427</td>
 											<br>
 										</tr>
 										<tr>
 											<td>Sancha Gomes(FE ECS)</td>
-											<td>TBA</td>
+											<td>9356892557</td>
 											<br>
 										</tr>
 										<tr>
@@ -2220,12 +2220,12 @@ if(!isset($_SESSION)){
 										</tr>
 										<tr>
 											<td>Anish Baretto(SE MECH)</td>
-											<td>TBA</td>
+											<td>7030102070</td>
 											<br>
 										</tr>
 										<tr>
 											<td>Yuvika Gauns Dessai(FE COMP-2)</td>
-											<td>&nbsp;TBA</td>
+											<td>&nbsp;7083469610</td>
 											<br>
 										</tr>
 										<tr>
@@ -2367,12 +2367,12 @@ if(!isset($_SESSION)){
 										</tr>
 										<tr>
 											<td>Vaishnavi Parodkar(FE COMP-2)</td>
-											<td>&nbsp;TBA</td>
+											<td>&nbsp;8080373240</td>
 											<br>
 										</tr>
 										<tr>
-											<td>Dev Kalgutkar</td>
-											<td>&nbsp;TBA</td>
+											<td>Dev Kalgutkar(SE MECH)</td>
+											<td>&nbsp;9820281224</td>
 											<br>
 										</tr>
 										<tr>
@@ -2516,7 +2516,7 @@ if(!isset($_SESSION)){
 										</tr>
 										<tr>
 											<td>Danely Gomes(FE ECS)</td>
-											<td>&nbsp;TBA</td>
+											<td>&nbsp;7387480871</td>
 											<br>
 										</tr>
 										<tr>
@@ -2665,7 +2665,7 @@ if(!isset($_SESSION)){
 										</tr>
 										<tr>
 											<td> Ananya Sawant(FE COMP-1)</td>
-											<td>TBA</td>
+											<td>6366145473</td>
 											<br>
 
 										</tr>
@@ -2759,7 +2759,7 @@ if(!isset($_SESSION)){
 										<tr>
 											<td>Venue</td>
 											<td>:</td>
-											<td>Futsal Ground</td>
+											<td>Outside Civil Staff Room</td>
 										</tr>
 										<tr>
 											<td>Participants</td>
@@ -2802,13 +2802,13 @@ if(!isset($_SESSION)){
 										</tr>
 										<tr>
 											<td>Anuj Gaude(SE COMP)</td>
-											<td>TBA</td>
+											<td>7798665815</td>
 											<br>
 
 										</tr>
 										<tr>
 											<td>Aarth Vajandar(SE COMP)</td>
-											<td>&nbsp;TBA</td>
+											<td>&nbsp;9423608801</td>
 											<br>
 
 										</tr>
@@ -2963,19 +2963,19 @@ if(!isset($_SESSION)){
 											<td><strong>Mobile No.</strong></td-->
 										</tr>
 										<tr>
-											<td>Adarsh (BE Mech)</td>
+											<td>Adarsh Chodankar(BE Mech)</td>
 											<td>&nbsp;7972180432</td>
 											<br>
 
 										</tr>
 										<tr>
-											<td>Pranav (TE Comp )</td>
+											<td>Pranav Naik(TE Comp )</td>
 											<td>7720996607</td>
 											<br>
 
 										</tr>
 										<tr>
-											<td>Swagata (SE Comp )</td>
+											<td>Swagata Talekar(SE Comp )</td>
 											<td>9420211482</td>
 											<br>
 
@@ -3142,19 +3142,19 @@ if(!isset($_SESSION)){
 											<td><strong>Mobile No.</strong></td-->
 										</tr>
 										<tr>
-											<td>Ved (TE COMP)</td>
+											<td>Ved Kerkar(TE COMP)</td>
 											<td>&nbsp;8767388109</td>
 											<br>
 
 										</tr>
 										<tr>
-											<td>Siddhi C (SE COMP)</td>
+											<td>Siddhi Chari (SE COMP)</td>
 											<td>9373642013</td>
 											<br>
 
 										</tr>
 										<tr>
-											<td>Samruddha (FE Civil)</td>
+											<td>Samruddha Patil(FE Civil)</td>
 											<td>9518779935</td>
 											<br>
 
@@ -3317,20 +3317,20 @@ if(!isset($_SESSION)){
 											<td><strong>Mobile No.</strong></td-->
 										</tr>
 										<tr>
-											<td><a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">IVAN (BE Comp)</a></td>
+											<td><a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">IVAN Azim(BE Comp)</a></td>
 											<td>9021207997</td>
 											<br>
 
 										</tr>
 										<tr>
-											<td>Marisa (BE Comp)</td>
+											<td>Marisa Barreto(BE Comp)</td>
 											<td>&nbsp;7038962070</td>
 											<br>
 
 										</tr>
 										<tr>
-											<td>Elivia (FE ECS)</td>
-											<td>&nbsp;pending</td>
+											<td>Elivia Silva(FE ECS)</td>
+											<td>&nbsp;TBA</td>
 											<br>
 
 										</tr>
@@ -3486,13 +3486,13 @@ if(!isset($_SESSION)){
 											<td><strong>Mobile No.</strong></td-->
 										</tr>
 										<tr>
-											<td>Ved (Fe Civil)</td>
+											<td>Ved Fadte(Fe Civil)</td>
 											<td>&nbsp;7066194953</td>
 											<br>
 
 										</tr>
 										<tr>
-											<td>Josiah (SE MECH)</td>
+											<td>Josiah Fernandes(SE MECH)</td>
 											<td>9175198380</td>
 											<br>
 
@@ -3589,7 +3589,7 @@ if(!isset($_SESSION)){
 										<tr>
 											<td>Venue</td>
 											<td>:</td>
-											<td>V1</td>
+											<td>V2</td>
 										</tr>
 										<tr>
 											<td>Participants</td>
@@ -3640,13 +3640,13 @@ if(!isset($_SESSION)){
 											<td><strong>Mobile No.</strong></td-->
 										</tr>
 										<tr>
-											<td>Nishil (BE COMP)</td>
+											<td>Nishil Hoogar(BE COMP)</td>
 											<td>&nbsp;7498285784</td>
 											<br>
 
 										</tr>
 										<tr>
-											<td>Warren (TE COMP)</td>
+											<td>Warren Rodrigues(TE COMP)</td>
 											<td>9518572503</td>
 											<br>
 
@@ -3742,7 +3742,7 @@ if(!isset($_SESSION)){
 										<tr>
 											<td>Venue</td>
 											<td>:</td>
-											<td>Near Chapel</td>
+											<td>V1</td>
 										</tr>
 										<tr>
 											<td>Participants</td>
@@ -3798,14 +3798,14 @@ if(!isset($_SESSION)){
 											<td><strong>Mobile No.</strong></td-->
 										</tr>
 										<tr>
-											<td>Anish (TE COMP)</td>
+											<td>Anish Naik(TE COMP)</td>
 											<td>&nbsp;9022541380</td>
 											<br>
 
 										</tr>
 										<tr>
-											<td>Mariza (BE COMP)&nbsp;</td>
-											<td>pending</td>
+											<td>Mariza Rodrigues(BE COMP)&nbsp;</td>
+											<td>9049839048</td>
 											<br>
 
 										</tr>
@@ -3904,7 +3904,7 @@ if(!isset($_SESSION)){
 										<tr>
 											<td>Topic</td>
 											<td>:</td>
-											<td>It will be shared on 17th May @11am</td>
+											<td>It will be shared on 5th March @11am</td>
 										</tr>
 
 										<tr>
@@ -3965,7 +3965,7 @@ if(!isset($_SESSION)){
 											<td><strong>&nbsp;Mobile No.</strong></td-->
 										</tr>
 										<tr>
-											<td>Shreyash (TE ETC)</td>
+											<td>Shreyash Shinde(TE ETC)</td>
 											<td>&nbsp;7798656774</td>
 											<br>
 
@@ -4059,7 +4059,7 @@ if(!isset($_SESSION)){
 										<tr>
 											<td>Venue</td>
 											<td>:</td>
-											<td>Old Court</td>
+											<td>V1</td>
 										</tr>
 										<tr>
 											<td>Participants</td>
@@ -4111,7 +4111,7 @@ if(!isset($_SESSION)){
 											<td><strong>Mobile No.</strong></td-->
 										</tr>
 										<tr>
-											<td>Shaina (SE MECH)</td>
+											<td>Shaina Pereira(SE MECH)</td>
 											<td>&nbsp;9673665771</td>
 											<br>
 
