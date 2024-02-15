@@ -17,7 +17,7 @@ if (isset($_SESSION['LAST_ACTIVITY']) && (time() - $_SESSION['LAST_ACTIVITY'] > 
 $_SESSION['LAST_ACTIVITY'] = time(); // Update last activity time stamp
 
 // Establish database connection
-$con = mysqli_connect('localhost', 'root', '', 'procyon2024') or die("Could not connect to mysql" . mysqli_error($con));
+$con = mysqli_connect('localhost', 'root', 'root', 'procyon2024') or die("Could not connect to mysql" . mysqli_error($con));
 
 if (isset($_POST['login'])) {
     $user_name = $_POST['username'];

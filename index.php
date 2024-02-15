@@ -152,7 +152,7 @@ if(!isset($_SESSION)){
 							<div class="row">
 								<div class="col-md-6">
 									<div class="mu-about-left">
-										<img class="" src="pics/poster.png" alt="Image" style="height: auto; object-fit: cover; width:auto;">
+										<img class="" src="./MAIN_POSTER.png" alt="Image" style="height: auto; object-fit: cover; width:auto;">
 									</div>
 								</div>
 								<div class="col-md-6 ">
@@ -3051,7 +3051,7 @@ if(!isset($_SESSION)){
 										<tr>
 											<td>Time</td>
 											<td>:</td>
-											<td>2:30 - 4:00pm</td>
+											<td>2:00 - 4:00pm</td>
 										</tr>
 										<tr>
 											<td>Type</td>
