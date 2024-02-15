@@ -1269,10 +1269,7 @@ if(!isset($_SESSION)){
 												<strong>Faculty Co-ordinator :</strong>
 											</td>
 										</tr>
-										<tr>
-											<td>Mr. Amit Sapkal&nbsp; </td><br>
-
-										</tr>
+										
 
 										<tr>
 											<td>Prof. Sanjeel Naik &nbsp; </td>
@@ -1280,6 +1277,10 @@ if(!isset($_SESSION)){
 										</tr>
 										<tr>
 											<td>Prof. Anisha Cotta &nbsp; </td>
+
+										</tr>
+										<tr>
+											<td>Mr. Amit Sapkal&nbsp; </td><br>
 
 										</tr>
 									</tbody>
@@ -1521,7 +1522,7 @@ if(!isset($_SESSION)){
 										<tr>
 											<td>Theme</td>
 											<td>:</td>
-											<td>Job Interview Gone Wrong</td>
+											<td>TBD</td>
 										</tr>
 
 
@@ -1602,16 +1603,17 @@ if(!isset($_SESSION)){
 												<strong>Faculty Co-ordinator :</strong>
 											</td>
 										</tr>
-										<tr>
-											<td>Mr. Vincent Fernandes</td>
-
-										</tr>
+										
 										<tr>
 											<td>Prof. Amey Kerkar</td>
 
 										</tr>
 										<tr>
 											<td>Prof. Nadya Baracho</td>
+										</tr>
+										<tr>
+											<td>Mr. Vincent Fernandes</td>
+
 										</tr>
 									</tbody>
 								</table>
@@ -1867,7 +1869,7 @@ if(!isset($_SESSION)){
 										co-ordinator. </li>
 									<li>Marks will be deducted if team exceeds its appointed time. </li>
 									<li>Participants must wear decent costumes. Costumes must be cross checked with the
-										coordinators a day prior.</li>
+										Faculty & student coordinators a day prior.</li>
 									<li>Each band must have a Team Leader.</li>
 
 								</ol>
@@ -1898,14 +1900,15 @@ if(!isset($_SESSION)){
 											</td>
 										</tr>
 										<tr>
-											<td>Prof. Chetan Gaonkar &nbsp;</td>
-
-										</tr>
-										<tr>
 											<td>Dr.
 												Shreyas Simu
 											</td>
 										</tr>
+										<tr>
+											<td>Prof. Chetan Gaonkar &nbsp;</td>
+
+										</tr>
+										
 										<tr>
 											<td>Ms. Mancia Lobo &nbsp;</td>
 
@@ -2064,7 +2067,7 @@ if(!isset($_SESSION)){
 
 										</tr>
 										<tr>
-											<td>Prof. Anirudha</td>
+											<td>Prof. Anirudha B.R</td>
 										</tr>
 										<tr>
 											<td>Mr. Arun Sail</td>
@@ -2516,11 +2519,11 @@ if(!isset($_SESSION)){
 											</td>
 										</tr>
 										<tr>
-											<td>Shantanu Desai&nbsp; </td>
+											<td>Mr.Shantanu Desai&nbsp; </td>
 
 										</tr>
 										<tr>
-											<td>Sujesh D. Girodkar&nbsp; </td>
+											<td>Mr.Sujesh D. Girodkar&nbsp; </td>
 
 										</tr>
 
@@ -2750,7 +2753,7 @@ if(!isset($_SESSION)){
 										<tr>
 											<td>Venue</td>
 											<td>:</td>
-											<td>Outside Civil Staff Room</td>
+											<td>Outside Civil Department</td>
 										</tr>
 										<tr>
 											<td>Participants</td>
@@ -2977,16 +2980,17 @@ if(!isset($_SESSION)){
 												<strong>Faculty Co-ordinator :</strong>
 											</td>
 										</tr>
-										<tr>
-											<td>Mr. Johnson Vaz &nbsp; </td>
-
-										</tr>
+										
 										<tr>
 											<td>Prof. Kimberly Morais &nbsp; </td>
 
 										</tr>
 										<tr>
 											<td>Prof. Manisha Fal Dessai &nbsp; </td>
+
+										</tr>
+										<tr>
+											<td>Mr. Johnson Vaz &nbsp; </td>
 
 										</tr>
 									</tbody>
@@ -3156,16 +3160,17 @@ if(!isset($_SESSION)){
 												<strong>Faculty Co-ordinator :</strong>
 											</td>
 										</tr>
-										<tr>
-											<td>Mr. Milindraj Paigankar&nbsp; </td>
-
-										</tr>
+									
 										<tr>
 											<td>Prof. Norman Dias &nbsp; </td>
 
 										</tr>
 										<tr>
 											<td>Prof. Avila Naik &nbsp; </td>
+
+										</tr>
+										<tr>
+											<td>Mr. Milindraj Paigankar&nbsp; </td>
 
 										</tr>
 									</tbody>
@@ -3291,8 +3296,7 @@ if(!isset($_SESSION)){
 									<li> Use of props is allowed, however no extra time will be given for stage setup
 									</li>
 									<li> Each team must have one faculty member in charge.</li>
-									<li> Registration should be done by 15th May 5pm.</li>
-									<li> Music for fashon show should be submitted by 15th May 5pm to the student
+									<li> Music for fashon show should be submitted by 4th March 4pm to the student
 										coordinator</li>
 									<li> Marks will be deducted if team exceeds its appointed time or violates any of
 										the above mentioned rules.
@@ -3332,16 +3336,17 @@ if(!isset($_SESSION)){
 												<strong>Faculty Co-ordinator :</strong>
 											</td>
 										</tr>
-										<tr>
-											<td>Mr. Antonio Soares &nbsp; </td>
-
-										</tr>
+										
 										<tr>
 											<td>Prof. Siya Khandeparkar &nbsp; </td>
 
 										</tr>
 										<tr>
 											<td>Prof. Kaushik Fondekar &nbsp; </td>
+
+										</tr>
+										<tr>
+											<td>Mr. Antonio Soares &nbsp; </td>
 
 										</tr>
 									</tbody>
@@ -3412,7 +3417,7 @@ if(!isset($_SESSION)){
 										<tr>
 											<td>Theme</td>
 											<td>:</td>
-											<td>Corruption</td>
+											<td>Election Awareness</td>
 										</tr>
 										<tr>
 											<td>Type</td>
@@ -3499,7 +3504,7 @@ if(!isset($_SESSION)){
 
 										</tr>
 										<tr>
-											<td>Ignatius Dias&nbsp; </td>
+											<td>Mr.Ignatius Dias&nbsp; </td>
 
 										</tr>
 
@@ -3570,7 +3575,7 @@ if(!isset($_SESSION)){
 										<tr>
 											<td>Type</td>
 											<td>:</td>
-											<td>Class</td>
+											<td>Department</td>
 										</tr>
 										<tr>
 											<td>Scoring</td>
@@ -3580,26 +3585,22 @@ if(!isset($_SESSION)){
 										<tr>
 											<td>Venue</td>
 											<td>:</td>
-											<td>V2</td>
+											<td>Main Stage</td>
 										</tr>
 										<tr>
 											<td>Participants</td>
 											<td>:</td>
-											<td>2 per class</td>
-										</tr>
-										<td>Theme</td>
-										<td>:</td>
-										<td>Nature</td>
+											<td>6-8 per department</td>
 										</tr>
 										<tr>
 											<td>Duration</td>
 											<td>:</td>
-											<td>2Hr</td>
+											<td>10 mins + 5 mins Setuptime</td>
 										</tr>
 										<tr>
 											<td>Judgement Criteria &nbsp;</td>
 											<td>:</td>
-											<td>Creativity, Presentation, Materials, overall effect</td>
+											<td>Creativity, Presentation, Materials, overall effect, Rhythm & Tempo</td>
 										</tr>
 
 										<tr>
@@ -3612,15 +3613,14 @@ if(!isset($_SESSION)){
 								</table>
 
 								<ol>
-									<li> Participants have to get their own equipment and materials.</li>
-									<li>Participants cannot create or work on their jewellery at home. </li>
-									<li>Participants can create as many articles as they want within the given time.
+									<li> Participants have to get their own equipment and materials (No property to be used from college).</li>
+									<li>Background music not allowed.</li>
+									<li>No damage to be done to the venue.
 									</li>
-									<li>Using sharp objects is prohibited.</li>
-									<li>Lead or other toxic materials are not allowed to be used.</li>
-									<li>The primary element must be natural or artificial flowers.</li>
-									<li>Other materials such as metal, plastic or glitter can be used.</li>
-									<li>No use of valuable materials such as gold or jewels.</li>
+									<li>Maximum two faculty participation earns 25 bonus points.</li>
+									<li>Marks will be deducted if time exceeds.</li>
+									<li>Decent costumes should be worn & crossed checked by student & falculty coordinator a day prior.</li>
+									
 								</ol>
 
 								<br>
@@ -3649,13 +3649,14 @@ if(!isset($_SESSION)){
 											</td>
 										</tr>
 										<tr>
-											<td>Mrs. Trima Fernandes e Fizardo&nbsp; </td>
-
-										</tr>
-										<tr>
 											<td>Prof. Jonessa Ferrao &nbsp; </td>
 
 										</tr>
+										<tr>
+											<td>Mrs. Trima Fernandes e Fizardo&nbsp; </td>
+
+										</tr>
+										
 									</tbody>
 								</table>
 								<p></p>
@@ -3733,7 +3734,7 @@ if(!isset($_SESSION)){
 										<tr>
 											<td>Venue</td>
 											<td>:</td>
-											<td>V1</td>
+											<td>Near Chapel</td>
 										</tr>
 										<tr>
 											<td>Participants</td>
@@ -3960,6 +3961,12 @@ if(!isset($_SESSION)){
 											<br>
 
 										</tr>
+										<tr>
+											<td>Jason Rodrigues(BE COMP)</td>
+											<td>&nbsp;8007624972</td>
+											<br>
+
+										</tr>
 
 										<tr>
 											<td> <br>
@@ -4049,12 +4056,12 @@ if(!isset($_SESSION)){
 										<tr>
 											<td>Venue</td>
 											<td>:</td>
-											<td>V1</td>
+											<td>Round-1: SE CIVIL CLASS ROOM</td>
 										</tr>
 										<tr>
 											<td>Participants</td>
 											<td>:</td>
-											<td>2-3</td>
+											<td>2 teams per class & 2-3 members per team</td>
 										</tr>
 										<tr>
 											<td>Duration</td>
