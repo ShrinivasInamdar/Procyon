@@ -602,7 +602,7 @@ if(!isset($_SESSION)){
 												gold event and if that department has won 1st place in that event then
 												all the 4 classes of that department (FE,SE,TE,BE) will receive 400
 												points each.
-												The joker should be submitted in the online form by <b>15th May 2pm and
+												The joker should be submitted in the online form by <b>29th Feb 2024 by 2pm and
 													is compulsory</b>.
 											</li>
 											<li>
@@ -615,8 +615,7 @@ if(!isset($_SESSION)){
 												participates for street play in the same department then that department
 												will receive 50 points (25 for ghumat aarti & 25 for street play). Even
 												if a single faculty participates then that department is eligible for 25
-												points. There is a faculty fashion show: Participation of minimum 3 will
-												fetch the department 50 points. Any faculty from science and humanities can participate and represent any other departments.
+												points.
 											</li>
 
 
@@ -661,11 +660,11 @@ if(!isset($_SESSION)){
 											</li>
 											<li>
 												There will be 4 departments competing against each other: Civil
-												department, Mechanical department, ETC department, Computer department.
+												department, Mechanical department, ETC/ECS department, Computer department.
 											</li>
 											<li>
 												First years are clubbed into their respective
-												department(Civil,Mech,ETC,Comp).
+												department(Civil,Mech,ETC/ECS,Comp).
 											</li>
 											<!-- <li>
 												Faculties can participate in all department events except for Solo
@@ -679,8 +678,8 @@ if(!isset($_SESSION)){
 												Faculty members cannot participate in class events
 											</li>
 											<li>
-												<b>Allocation of joker cards is compulsory only for
-													department events.</b>
+												<b>Allocation of joker cards is compulsory for both 
+													department & class events.</b>
 											</li>
 											<li>
 												Registration process is strictly online on the official PROCYON website
@@ -697,15 +696,11 @@ if(!isset($_SESSION)){
 												events.
 											</li>
 											<li>
-												Forms submitted can be <b><u>edited till 1st March 2pm</u></b>. After
-												that editing of the forms will not be allowed.
-											</li>
-											<li>
 												Each CR will be given a <b><u>unique ID and password</u></b> which will
 												enable him/her to access the registration form and to prevent misuse of
 												the form.
 											</li>
-											<li>Forms should be submitted before 1st March 2pm. After that the online
+											<li>Forms should be submitted before <b>29th FEB 2pm</b>. After that the online
 												portal will not accept any forms and the teams will therefore not be
 												able to participate in any event which they haven’t registered for.</li>
 											<li>
