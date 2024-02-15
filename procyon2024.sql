@@ -2,8 +2,8 @@
 -- version 5.2.1
 -- https://www.phpmyadmin.net/
 --
--- Host: 127.0.0.1
--- Generation Time: Feb 13, 2024 at 07:02 PM
+-- Host: localhost
+-- Generation Time: Feb 15, 2024 at 04:17 AM
 -- Server version: 10.4.28-MariaDB
 -- PHP Version: 8.2.4
 
@@ -31,6 +31,7 @@ CREATE TABLE `crregistration` (
   `id` int(11) NOT NULL,
   `username` varchar(50) NOT NULL,
   `password` int(11) NOT NULL,
+  `contact` int(13) DEFAULT NULL,
   `category` varchar(20) NOT NULL DEFAULT 'class'
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
@@ -38,24 +39,24 @@ CREATE TABLE `crregistration` (
 -- Dumping data for table `crregistration`
 --
 
-INSERT INTO `crregistration` (`id`, `username`, `password`, `category`) VALUES
-(2, 'VARUN CASTELLO', 2113027, 'class'),
-(3, 'VADIRAJ INAMDAR', 2014059, 'class'),
-(4, 'SHRINIVAS GURURAJ INAMDAR', 2314092, 'class'),
-(5, 'SANCHA VICTORIA GOMES', 2316039, 'class'),
-(6, 'SAHIL SUBHASH PATIL', 2121030, 'class'),
-(7, 'SARVADNYA SANJEEV GAUNS DESSAI ', 2311022, 'class'),
-(8, 'LYDON FERNANDES', 2112019, 'class'),
-(9, 'ANANYA MAHESH SAWANT ', 2111008, 'class'),
-(10, 'RAJAT KASHALKAR', 2111018, 'class'),
-(11, 'AYYAN SHAIKH ', 2312006, 'class'),
-(12, 'VANOSH FERNANDES', 2216055, 'class'),
-(13, 'SAMUEL MIRANDA ', 2114043, 'class'),
-(14, 'OM MAHANAND PARAB', 2214033, 'class'),
-(15, 'AADARSH CHODANKAR', 2012001, 'class'),
-(16, 'JEREMY GILBERT', 2013010, 'class'),
-(17, 'ABHISHEK DIAS', 2212011, 'class'),
-(18, 'LIAM MENDES', 2211011, 'class');
+INSERT INTO `crregistration` (`id`, `username`, `password`, `contact`, `category`) VALUES
+(2, 'VARUN CASTELLO', 2113027, NULL, 'class'),
+(3, 'VADIRAJ INAMDAR', 2014059, NULL, 'class'),
+(4, 'SHRINIVAS INAMDAR', 2314092, NULL, 'class'),
+(5, 'SANCHA VICTORIA GOMES', 2316039, NULL, 'class'),
+(6, 'SAHIL SUBHASH PATIL', 2121030, NULL, 'class'),
+(7, 'SARVADNYA SANJEEV GAUNS DESSAI ', 2311022, NULL, 'class'),
+(8, 'LYDON FERNANDES', 2112019, NULL, 'class'),
+(9, 'ANANYA MAHESH SAWANT ', 2111008, NULL, 'class'),
+(10, 'RAJAT KASHALKAR', 2111018, NULL, 'class'),
+(11, 'AYYAN SHAIKH ', 2312006, NULL, 'class'),
+(12, 'VANOSH FERNANDES', 2216055, NULL, 'class'),
+(13, 'SAMUEL MIRANDA ', 2114043, NULL, 'class'),
+(14, 'OM MAHANAND PARAB', 2214033, NULL, 'class'),
+(15, 'AADARSH CHODANKAR', 2012001, NULL, 'class'),
+(16, 'JEREMY GILBERT', 2013010, NULL, 'class'),
+(17, 'ABHISHEK DIAS', 2212011, NULL, 'class'),
+(18, 'LIAM MENDES', 2211011, NULL, 'class');
 
 -- --------------------------------------------------------
 
@@ -75,11 +76,10 @@ CREATE TABLE `deptregistrations` (
 --
 
 INSERT INTO `deptregistrations` (`id`, `username`, `password`, `category`) VALUES
-(1, 'LYZANDER GOMES', 1912025, 'department'),
-(2, 'YASH PHAL DESSAI', 2022025, 'department'),
-(3, 'ANIRUDDHA SURAWASE', 2023007, 'department'),
-(4, 'REEV DSOUZA', 1914036, 'department'),
-(5, 'SHRUTI SAWANT', 2021037, 'department');
+(1, 'VADIRAJ INAMDAR', 2014059, 'department'),
+(2, 'AADARSH CHODANKAR', 2012001, 'department'),
+(3, 'JEREMY GILBERT', 2013010, 'department'),
+(4, 'REEV DSOUZA', 1914036, 'department');
 
 --
 -- Indexes for dumped tables

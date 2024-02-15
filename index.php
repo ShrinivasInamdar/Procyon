@@ -23,6 +23,7 @@ if(!isset($_SESSION)){
 	<link href="assets/css/slick.css" rel="stylesheet">
 	<!-- Theme color -->
 	<link id="switcher" href="assets/css/theme-color/default-theme.css" rel="stylesheet">
+	
 
 	<!-- sponsorslider -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
@@ -927,7 +928,7 @@ if(!isset($_SESSION)){
 										<br>
 										<div class="slider">
 											<div class="logos">
-
+												<!-- SPONSORS LOGO DETAILS -->
 												<!-- 											<img class="fab" src="pics/brand1.png" alt="">
 											<img class="fab" src="pics/brand2.png" alt="">
 											<img class="fab" src="pics/brand3.png" alt="">
@@ -1047,9 +1048,8 @@ if(!isset($_SESSION)){
 												<div class="card">
 													<div class="card-body">
 														<h5 class="card-title">Prof.<br> Amey K Shet Tilve</h5>
-														<h6 class="card-subtitle mb-2 text-muted">Cultural Incharge DBCE
-														</h6>
-														<p class="card-text"><b>+91 9923412243</b></p>
+														<p class="card-text" ><b>Cultural Incharge DBCE</b></p>
+				
 													</div>
 												</div>
 											</div>

@@ -1,16 +1,17 @@
 <?php
+
 // Start or resume a session
 if (session_status() == PHP_SESSION_NONE) {
     session_start();
 }
 
 // Check if the session timeout is reached
-$session_expiration = 0.5 * 60; // 5 minutes in seconds
+$session_expiration = 2 * 60; // 5 minutes in seconds
 if (isset($_SESSION['LAST_ACTIVITY']) && (time() - $_SESSION['LAST_ACTIVITY'] > $session_expiration)) {
     // Session expired, destroy session and redirect to login page
     session_unset(); // Unset all session variables
     session_destroy(); // Destroy the session
-    header("Location: index.php"); // Redirect to the login page
+    header("Location: login.php"); // Redirect to the login page
     exit;
 }
 $_SESSION['LAST_ACTIVITY'] = time(); // Update last activity time stamp
@@ -32,6 +33,7 @@ if (isset($_POST['login'])) {
         if ($result->num_rows == 1) {
             $_SESSION['username'] = $user_name;
             $_SESSION['event'] = 'class';
+            $_SESSION['registered_once'] = true; // Flag to indicate registration
         } else {
             // Invalid login credentials
             displayError();
@@ -44,6 +46,7 @@ if (isset($_POST['login'])) {
         if ($result->num_rows == 1) {
             $_SESSION['username'] = $user_name;
             $_SESSION['event'] = 'department';
+            $_SESSION['registered_once'] = true; // Flag to indicate registration
         } else {
             // Invalid login credentials
             displayError();
@@ -55,11 +58,33 @@ if (isset($_POST['login'])) {
 
     // Redirect based on event type
     if ($_SESSION['event'] == 'class') {
-        header("Location: https://docs.google.com/forms/d/e/1FAIpQLSceOQ_y6qgCY34x9HPGVrJUtsAx3gurrIADOB22AAGznuWSHA/viewform?usp=sf_link");
-        exit;
+        if ($_SESSION['registered_once']) {
+            echo "<script>
+                    if(confirm('You will be allowed to register only once. Are you sure to register now?')) {
+                        window.location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSceOQ_y6qgCY34x9HPGVrJUtsAx3gurrIADOB22AAGznuWSHA/viewform?usp=sf_link';
+                    } else {
+                        window.location.href = './index.php#mu-register';
+                    }
+                  </script>";
+            exit;
+        } else {
+            header("Location: ./index.php#mu-register");
+            exit;
+        }
     } elseif ($_SESSION['event'] == 'department') {
-        header("Location: https://docs.google.com/forms/d/e/1FAIpQLScZSh9TXKozur5A2wj3ec6IrUNI-QvBaBPWqop_uhdDCCW4NQ/viewform?usp=sf_link");
-        exit;
+        if ($_SESSION['registered_once']) {
+            echo "<script>
+                    if(confirm('You will be allowed to register only once. Are you sure to register now?')) {
+                        window.location.href = 'https://docs.google.com/forms/d/e/1FAIpQLScZSh9TXKozur5A2wj3ec6IrUNI-QvBaBPWqop_uhdDCCW4NQ/viewform?usp=sf_link';
+                    } else {
+                        window.location.href = './index.php#mu-register';
+                    }
+                  </script>";
+            exit;
+        } else {
+            header("Location: ./index.php#mu-register");
+            exit;
+        }
     }
 }
 
