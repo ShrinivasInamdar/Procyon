@@ -1121,7 +1121,7 @@ if(!isset($_SESSION)){
 				<div class="mu-footer-top">
 					<div class="mu-social-media">
 						<!-- <a href="https://www.facebook.com/Procyon-2K19-2138286729527922/"><i class="fa fa-facebook"></i></a> -->
-						<a href="https://www.instagram.com/dbceprocyon2k22/"><i class="fa fa-instagram"></i></a>
+						<a href="https://www.instagram.com/dbceprocyon2k23/"><i class="fa fa-instagram"></i></a>
 						<!--<a href="#"><i class="fa fa-google-plus"></i></a>
 							<a href="#"><i class="fa fa-linkedin"></i></a>
 							<a href="#"><i class="fa fa-youtube"></i></a>-->
