@@ -374,7 +374,7 @@ if(!isset($_SESSION)){
 											<li>
 												<div class="btn mu-single-event" data-toggle="modal" data-target="#modal18">
 													<img src="pics/junkyard.jpg" alt="event speaker">
-													<p class="mu-event-time">9:30 - 10:30 PM</p>
+													<p class="mu-event-time">9:15 - 10:30 PM</p>
 													<p class="mu-event-time">MAIN STAGE</p>
 													<h3>Junkyard Beats</h3>
 													<span>GOLD</span>
@@ -385,7 +385,7 @@ if(!isset($_SESSION)){
 											<li>
 												<div class="btn mu-single-event" data-toggle="modal" data-target="#modal14">
 													<img src="pics/group dance.jpg" alt="event speaker">
-													<p class="mu-event-time">11:00 AM - 12:30 PM </p>
+													<p class="mu-event-time">11:00 AM - 01:00 PM </p>
 													<p class="mu-event-time">MAIN STAGE</p>
 													<h3>STEP UP REVOLUTION</h3>
 													<span>GOLD</span>
@@ -394,7 +394,7 @@ if(!isset($_SESSION)){
 											<li>
 												<div class="btn mu-single-event" data-toggle="modal" data-target="#modal15">
 													<img src="pics/couple.jpeg" alt="event speaker">
-													<p class="mu-event-time">2:30 - 4:00 PM </p>
+													<p class="mu-event-time">2:00 - 4:00 PM </p>
 													<p class="mu-event-time">MAIN STAGE</p>
 													<h3>MR. AND MS. PROCYON</h3>
 													<span>SILVER</span>
@@ -3149,7 +3149,12 @@ if(!isset($_SESSION)){
 											<br>
 
 										</tr>
+										<tr>
+											<td>Ackyshma Fernandes ( TE ECS )</td>
+											<td></td>
+											<br>
 
+										</tr>
 										<tr>
 											<td> <br>
 												<strong>Faculty Co-ordinator :</strong>
@@ -3575,7 +3580,7 @@ if(!isset($_SESSION)){
 										<tr>
 											<td>Scoring</td>
 											<td>:</td>
-											<td>Bronze</td>
+											<td>Gold</td>
 										</tr>
 										<tr>
 											<td>Venue</td>
