@@ -17,7 +17,7 @@ if (isset($_SESSION['LAST_ACTIVITY']) && (time() - $_SESSION['LAST_ACTIVITY'] > 
 $_SESSION['LAST_ACTIVITY'] = time(); // Update last activity time stamp
 
 // Establish database connection
-$con = mysqli_connect('localhost', 'root', 'root', 'procyon2024') or die("Could not connect to mysql" . mysqli_error($con));
+$con = mysqli_connect('localhost', 'root', '', 'procyon2024') or die("Could not connect to mysql" . mysqli_error($con));
 
 if (isset($_POST['login'])) {
     $user_name = $_POST['username'];
@@ -61,7 +61,7 @@ if (isset($_POST['login'])) {
         if ($_SESSION['registered_once']) {
             echo "<script>
                     if(confirm('You will be allowed to register only once. Are you sure to register now?')) {
-                        window.location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSceOQ_y6qgCY34x9HPGVrJUtsAx3gurrIADOB22AAGznuWSHA/viewform?usp=sf_link';
+                        window.location.href = 'https://forms.gle/NLUcvgoTzEXmDW9ZA';
                     } else {
                         window.location.href = './index.php#mu-register';
                     }
@@ -75,7 +75,7 @@ if (isset($_POST['login'])) {
         if ($_SESSION['registered_once']) {
             echo "<script>
                     if(confirm('You will be allowed to register only once. Are you sure to register now?')) {
-                        window.location.href = 'https://docs.google.com/forms/d/e/1FAIpQLScZSh9TXKozur5A2wj3ec6IrUNI-QvBaBPWqop_uhdDCCW4NQ/viewform?usp=sf_link';
+                        window.location.href = 'https://forms.gle/acZvy37TQiKSRzAB7';
                     } else {
                         window.location.href = './index.php#mu-register';
                     }

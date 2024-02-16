@@ -3132,14 +3132,14 @@ if(!isset($_SESSION)){
 											<td><strong>Mobile No.</strong></td-->
 										</tr>
 										<tr>
-											<td>Ved Kerkar(TE COMP)</td>
-											<td>&nbsp;8767388109</td>
+											<td>Srushti Salgaonkar ( BE COMP) </td>
+											<td>&nbsp;8080920559</td>
 											<br>
 
 										</tr>
 										<tr>
-											<td>Siddhi Chari (SE COMP)</td>
-											<td>9373642013</td>
+											<td>Siddhi Naik (SE COMP)</td>
+											<td>9322600920</td>
 											<br>
 
 										</tr>
