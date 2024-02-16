@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: Feb 15, 2024 at 04:17 AM
+-- Generation Time: Feb 16, 2024 at 03:54 AM
 -- Server version: 10.4.28-MariaDB
 -- PHP Version: 8.2.4
 
@@ -31,7 +31,7 @@ CREATE TABLE `crregistration` (
   `id` int(11) NOT NULL,
   `username` varchar(50) NOT NULL,
   `password` int(11) NOT NULL,
-  `contact` int(13) DEFAULT NULL,
+  `contact` bigint(13) DEFAULT NULL,
   `category` varchar(20) NOT NULL DEFAULT 'class'
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
@@ -40,23 +40,23 @@ CREATE TABLE `crregistration` (
 --
 
 INSERT INTO `crregistration` (`id`, `username`, `password`, `contact`, `category`) VALUES
-(2, 'VARUN CASTELLO', 2113027, NULL, 'class'),
-(3, 'VADIRAJ INAMDAR', 2014059, NULL, 'class'),
-(4, 'SHRINIVAS INAMDAR', 2314092, NULL, 'class'),
-(5, 'SANCHA VICTORIA GOMES', 2316039, NULL, 'class'),
-(6, 'SAHIL SUBHASH PATIL', 2121030, NULL, 'class'),
-(7, 'SARVADNYA SANJEEV GAUNS DESSAI ', 2311022, NULL, 'class'),
-(8, 'LYDON FERNANDES', 2112019, NULL, 'class'),
-(9, 'ANANYA MAHESH SAWANT ', 2111008, NULL, 'class'),
-(10, 'RAJAT KASHALKAR', 2111018, NULL, 'class'),
-(11, 'AYYAN SHAIKH ', 2312006, NULL, 'class'),
-(12, 'VANOSH FERNANDES', 2216055, NULL, 'class'),
-(13, 'SAMUEL MIRANDA ', 2114043, NULL, 'class'),
-(14, 'OM MAHANAND PARAB', 2214033, NULL, 'class'),
-(15, 'AADARSH CHODANKAR', 2012001, NULL, 'class'),
-(16, 'JEREMY GILBERT', 2013010, NULL, 'class'),
-(17, 'ABHISHEK DIAS', 2212011, NULL, 'class'),
-(18, 'LIAM MENDES', 2211011, NULL, 'class');
+(1, 'VADIRAJ INAMDAR', 2014059, 7083491368, 'class'),
+(2, 'JEREMY GILBERT', 2013010, 7709252200, 'class'),
+(3, 'AADARSH CHODANKAR', 2012001, 7972180432, 'class'),
+(4, 'SAHIL PATIL', 2121030, 8275384780, 'class'),
+(5, 'SAMUEL MIRANDA', 2114043, 9028452328, 'class'),
+(6, 'VARUN CASTELLO', 2113027, 9146992833, 'class'),
+(7, 'LYDON FERNANDES', 2112019, 7249692831, 'class'),
+(8, 'RAJAT KASHALKAR', 2111018, 7875911506, 'class'),
+(9, 'OM PARAB', 2214033, 7083423318, 'class'),
+(10, 'VANOSH FERNANDES', 2216055, 9405897258, 'class'),
+(11, 'ABHISHEK DIAS', 2212011, 7743938887, 'class'),
+(12, 'LIAM MENDES', 2211011, 9322754791, 'class'),
+(13, 'ANANYA SAWANT', 2314008, 6366145473, 'class'),
+(14, 'SHRINIVAS INAMDAR', 2314092, 7038823805, 'class'),
+(15, 'SANCHA GOMES', 2316039, 9356892557, 'class'),
+(16, 'AYYAN SHAIKH', 2312006, 9373607718, 'class'),
+(17, 'SARVADNYA DESSAI', 2311022, 7558494898, 'class');
 
 -- --------------------------------------------------------
 
@@ -79,7 +79,7 @@ INSERT INTO `deptregistrations` (`id`, `username`, `password`, `category`) VALUE
 (1, 'VADIRAJ INAMDAR', 2014059, 'department'),
 (2, 'AADARSH CHODANKAR', 2012001, 'department'),
 (3, 'JEREMY GILBERT', 2013010, 'department'),
-(4, 'REEV DSOUZA', 1914036, 'department');
+(4, 'SAHIL PATIL', 2121030, 'department');
 
 --
 -- Indexes for dumped tables
@@ -105,7 +105,7 @@ ALTER TABLE `deptregistrations`
 -- AUTO_INCREMENT for table `crregistration`
 --
 ALTER TABLE `crregistration`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=19;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=18;
 
 --
 -- AUTO_INCREMENT for table `deptregistrations`
